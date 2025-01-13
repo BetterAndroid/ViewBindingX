@@ -25,7 +25,7 @@ This project is still a work in progress. If you have any suggestions or feedbac
 ```
 Apache License Version 2.0
 
-Copyright (C) 2019-2024 HighCapable
+Copyright (C) 2019 HighCapable
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
